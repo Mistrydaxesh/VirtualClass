@@ -13,7 +13,7 @@ function jfun1(event){
 }
 
 
-function calculate(event){
+function calculatemark(event){
     event.preventDefault();
     let math=mr1.Maths.value;
     let sci=mr1.Science.value; 
